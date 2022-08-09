@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/johnsmith081/Product-Preview-Card)
+- Solution URL: [Github](https://johnsmith081.github.io/nft-preview-card/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -55,5 +55,5 @@ Advanced HTML and CSS properties, javascript
 ## Author
 
 - GitHub repo - [Johnsmith081](https://github.com/johnsmith081)
-- Frontend Mentor - [@Johnsmith](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Johnsmith](https://www.frontendmentor.io/profile/johnsmith081)
 
